@@ -19,3 +19,4 @@
 
 ---
 
+[![Build status](https://ci.appveyor.com/api/projects/status/7d5l7ujn4pn4m26u/branch/main?svg=true)](https://ci.appveyor.com/project/AleksandrKudyakov/ra-hoc-time/branch/main)
